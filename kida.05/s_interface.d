@@ -1,0 +1,1 @@
+../kida.02/s_interface.d
